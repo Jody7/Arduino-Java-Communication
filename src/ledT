@@ -1,0 +1,4 @@
+public class ledT {
+    //Used to host this boolean. Quick and Dirty.
+    public static boolean LEDS = false;
+}
